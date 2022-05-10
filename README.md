@@ -4,7 +4,7 @@
 It is an Eye movement that Track mouse. The two eyes will follow the direction of the mouse from anywhere on the screen.
 
 # How to run
-move the mouse from anywhere on the screen. it will automatically follow the mouse
+Move the mouse from anywhere on the screen. The eye will automatically follow the mouse
 
 # Roadmap of future improvements: 
 Add background and add a new eye
